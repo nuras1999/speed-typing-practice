@@ -10,7 +10,7 @@
 * Install all required modules and packages.
 * The images and wordlist used are randomly collected from various sources.
 * To stop the program type END in the input.
-* _If your are tooooo lucky then the randomly generated word from dictionary can be END :) _.
+* _If your are tooooo lucky then the randomly generated word from dictionary can be END :)_.
 
 ## Contact
 * _GitHub_ : [nuras1999](https://www.github.com/nuras1999)
